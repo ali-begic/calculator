@@ -125,6 +125,7 @@ This project is licensed under the Apache-2.0 license - see the [LICENSE](LICENS
 ## Additional Notes
 
 - Ensure that you have the correct version of Qt and associated build tools for your platform.
+- Make sure the `muparser` library is correctly installed and linked during the build process.
 - If you encounter issues, check the Qt and compiler documentation or seek assistance on community forums.
 - If the application still does not work properly, try running it as an administrator.
 
