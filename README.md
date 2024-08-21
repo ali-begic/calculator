@@ -45,8 +45,9 @@ To build and run the **Calculator** application from source, the best approach i
      cd calculator
      ```
 
-2. **Install Qt Dependencies:**
-   - Ensure you have the necessary Qt libraries, compilers, and build tools installed. Refer to the official Qt documentation for platform-specific instructions:
+2. **Install Qt and muParser Dependencies:**
+   - Ensure you have the necessary Qt libraries, compilers, and build tools installed. You will also need to install the `muparser` library, which is required for mathematical expression parsing.
+   - Refer to the official Qt documentation for platform-specific instructions:
      - [Qt Documentation for Windows](https://doc.qt.io/qt-6/windows-deployment.html)
      - [Qt Documentation for macOS](https://doc.qt.io/qt-6/macos-deployment.html)
      - [Qt Documentation for Linux](https://doc.qt.io/qt-6/linux-deployment.html)
