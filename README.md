@@ -2,7 +2,7 @@
 
 **Calculator** is a simple and user-friendly cross-platform application designed for performing basic arithmetic operations. With a sleek and intuitive UI built using the Qt framework, it offers essential features to handle everyday calculations efficiently. Users can perform addition, subtraction, multiplication, and division, with support for both integer and floating-point numbers.
 
-![calculator-capture](https://github.com/user-attachments/assets/c04879e2-42fa-4138-93fc-fd2e19da5661)
+![calculator-capture2](https://github.com/user-attachments/assets/70a0b533-69a2-44f0-bb87-00ac260be1bc)
 
 ## Features of the Calculator Qt Application
 
